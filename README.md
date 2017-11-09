@@ -14,4 +14,5 @@ Informations utiles :
 - Le nombre de personnages
 - Le genre pour lequel les mots du texte ont le plus de correspondance.
 
-Taux de réussite de la classification avec un Random Forest Classifier : 79%
+Apprentissage sur 824 données et 50 classes différentes.
+Taux de réussite de la classification avec un Random Forest Classifier : 79%.
