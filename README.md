@@ -2,7 +2,9 @@
 
 ### Extraction d'information et classification par genre de pièces de théâtre classique français
 
-Informations utiles :
+##### Eleonore Bartenlian et Adrien Pavao
+
+Informations utiles extraites des textes :
 
 - L’auteur,
 - La taille moyenne des phrases,
